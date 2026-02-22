@@ -6,4 +6,6 @@ public class OOPSBannerAppUC3 {
         System.out.println(String.join(" ","**    **","  **    ** "," ******   ",      ***    "));
         System.out.println(String.join(" ","**    **","  **    ** "," **       ",         **  "));
         System.out.println(String.join(" "," **  ** ","   **  **  "," **       ","       **   "));
-        System.out.println(String.join(" ","   **   ","     **    "," **       ","  ******    "));		
+        System.out.println(String.join(" ","   **   ","     **    "," **       ","  ******    "));	
+    }
+}
