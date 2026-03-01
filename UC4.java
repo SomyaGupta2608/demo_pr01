@@ -8,3 +8,5 @@ public class UC4 {
         lines[5]=System.out.println(String.join(" "," **  ** ","   **  **  "," **       ","       **   "));
         lines[6]=System.out.println(String.join(" ","   **   ","     **    "," **       ","  ******    "));	
 		System.out.println(line);
+	}
+}
